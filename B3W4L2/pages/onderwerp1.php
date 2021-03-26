@@ -6,9 +6,12 @@
     <head>
         <meta charset="UTF-8">
         <title>Aapje 1</title>
-        <link rel="stylesheet" href="CSS/style.css">
+        <link rel="stylesheet" href="../style.css">
     </head>
         <body>
-        
+
+            <?php include('../includes/header.php'); ?>
+
+            <h1>Onderwerp 1</h1>
         </body>
 </html>

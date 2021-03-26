@@ -6,7 +6,7 @@ Benoem hier ten minste je naam en de tijd
     <head>
         <meta charset="UTF-8">
         <title>Footer</title>
-        <link rel="stylesheet" href="CSS/style.css">
+        <link rel="stylesheet" href="../style.css">
     </head>
         <body>
             <footer>
